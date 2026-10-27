@@ -39,4 +39,12 @@ Profile: https://leetcode.com/u/bhaviiishya/
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/meyesfuture/leetcode-grinding/tree/master/0733-flood-fill) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/meyesfuture/leetcode-grinding/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/meyesfuture/leetcode-grinding/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
