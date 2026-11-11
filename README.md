@@ -52,4 +52,8 @@ Profile: https://leetcode.com/u/bhaviiishya/
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/meyesfuture/leetcode-grinding/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/meyesfuture/leetcode-grinding/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
