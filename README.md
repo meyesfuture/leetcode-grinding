@@ -16,6 +16,7 @@ Profile: https://leetcode.com/u/bhaviiishya/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/meyesfuture/leetcode-grinding/tree/master/0048-rotate-image) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/meyesfuture/leetcode-grinding/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
@@ -47,4 +48,8 @@ Profile: https://leetcode.com/u/bhaviiishya/
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/meyesfuture/leetcode-grinding/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/meyesfuture/leetcode-grinding/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
